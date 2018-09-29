@@ -42,7 +42,7 @@ a[target="_blank"] {
     text-decoration:none;
 }
 
-a[target="_blank"]:hover, a.btn, a.lbtn{
+a[target="_blank"]:hover, a.btn, a.lbtn, .footer a{
     text-decoration: underline;
 }
 
@@ -88,6 +88,14 @@ a[target="_blank"]:hover, a.btn, a.lbtn{
     float:left;
     width:340px;
     margin-left:10px;
+}
+
+h2#PageTitle{
+    font-size:40px;
+    padding-top:40px;
+    margin-bottom:20px;
+    font-weight:bold;
+    line-height:120%;
 }
 
 #news h2, #history h2{
@@ -156,6 +164,10 @@ a[target="_blank"]:hover, a.btn, a.lbtn{
     margin-left: 5px;
 }
 
+#history .alternate{
+    border-bottom: none;
+}
+
 .twitter::after{
     content: "\f081";  /* twitter-square */
     content: "\f099";  /* twitter */
@@ -189,4 +201,49 @@ a[target="_blank"]:hover, a.btn, a.lbtn{
 
 .listStyleType_none li{
    list-style-type:none;
+}
+
+#banner ruby {
+    font-weight: bold;
+    color: #ff4040;
+    font-size: 32px;
+    line-height: 70%;
+}
+
+#top{
+    width: 800px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #aaa;
+}
+#navi{
+    font-size: 17px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+
+.center{
+    margin:15px auto 50px;
+    width:908px;
+    min-height:96px;
+    border: 1px solid gray; /* 一時的な表示確認用コード */
+}
+
+.footer{
+    font-size:14px;
+    margin-top:14px;
+}
+
+.text-center{
+    text-align:center;
+}
+
+p.text-center{
+    margin-bottom:0px;
 }

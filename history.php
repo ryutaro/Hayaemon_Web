@@ -31,23 +31,21 @@ $date = @$_GET['date'];
     </style>
 
     <div style="border:1px solid #e0e0e0;border-radius:5px">
-        <div class="font15"
-             style="margin:20px 25px 40px 25px; line-height: 150%;text-align:left;background-image:url(music.png);background-repeat:no-repeat">
+        <div class="font15" style="margin:20px 25px 40px 25px; line-height: 150%;text-align:left;background-image:url(img/music.png);background-repeat:no-repeat">
             <div style="margin-left:60px;margin-right:60px">
                 <div class="font20" style="text-align:left;margin-bottom:40px;">
-                    <div class="font40" style="text-align:center;padding-top:40px;margin-bottom:20px;font-weight:bold"><?php echo $o['PageTitle']; ?></div>
-                    <br/>
-                    <br/>
+                    <h2 id="PageTitle" style="text-align:center;"><?php echo $o['PageTitle']; ?></h2>
+                    <br>
+                    <br>
                     <div id="cal">
 						<?php echo GetCalender(); ?>
                     </div>
-                    <br/>
+                    <br>
 					<?php echo GetHistory($date); ?>
                 </div>
             </div>
         </div>
     </div>
-    <br/>
 <?php
 if(is_numeric($date) && '6' == strlen($date)) {
 	$date = substr_replace($date, '/', 4, 0);
