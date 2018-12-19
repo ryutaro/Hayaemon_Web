@@ -76,6 +76,7 @@ include('./include/header.php');
                     </div>
                 </div>
                 <div id="navi">
+                    <div class="left"><a href="boot.php" class="lbtn">聞々ハヤえもんを起動する方法</a></div>
                     <div class="right"><a href="changespeed.php" class="btn">聞々ハヤえもんで再生速度を変更する方法</a></div>
                 </div>
                 <div class="center">

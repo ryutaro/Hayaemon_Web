@@ -42,6 +42,7 @@ include('./include/header.php');
                     <img src="<?php echo $o['Url']; ?>/img/nihongo.png" border="1">
                 </div>
                 <div id="navi">
+                    <div class="left"><a href="environment.php" class="lbtn">聞々ハヤえもんの動作環境について</a></div>
                     <div class="right"><a href="boot.php" class="btn">聞々ハヤえもんを起動する方法</a></div>
                 </div>
                 <div class="center">

@@ -52,6 +52,7 @@ include('./include/header.php');
                     </div>
                 </div>
                 <div id="navi">
+                    <div class="left"><a href="howtodownload.php.php" class="lbtn">聞々ハヤえもんをダウンロードする方法</a></div>
                     <div class="right"><a href="play.php" class="btn">聞々ハヤえもんで音楽を聴く方法</a></div>
                 </div>
                 <div class="center">
