@@ -29,7 +29,7 @@ include('./include/header.php');
                     聞々ハヤえもんにはたくさんの種類のエフェクトがありますので、まずは手当たり次第クリックしてみてくださいね。
                 </div>
                 <div id="navi">
-                    <div class="left"><a href="controls.php" class="lbtn">聞々ハヤえもんで歌詞を表示させる方法</a></div>
+                    <div class="left"><a href="lyrics.php" class="lbtn">聞々ハヤえもんで歌詞を表示させる方法</a></div>
                     <div class="right"><a href="playrange.php" class="btn">聞々ハヤえもんで再生範囲を指定する方法</a></div>
                 </div>
                 <div class="center">
