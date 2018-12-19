@@ -36,6 +36,10 @@ include('./include/header.php');
                         <input type=submit value="送信する">
                     </form>
                 </div>
+                <div id="navi">
+                    <div class="left"><a href="versionup.php" class="lbtn">聞々ハヤえもんをバージョンアップする方法</a></div>
+                    <div class="right"><a href="/" class="btn">聞々ハヤえもんトップページ</a></div>
+                </div>
                 <div class="center">
                     <!-- How_About_Bottom_728x90 -->
                     <div id='div-gpt-ad-1353715793997-0' style='width:728px; height:90px;'>
