@@ -60,7 +60,10 @@ amazon_ad_tag = "edolfzoku-22"; amazon_ad_width = "300"; amazon_ad_height = "250
                     普通口座　００９４０４４<br>
                     山内　良太(ﾔﾏｳﾁ ﾘｮｳﾀ)
                 </div>
-                <br>
+                <div id="navi">
+                    <div class="left"><a href="bosyu.php" class="lbtn">聞々ハヤえもん開発協力者、募集中！</a></div>
+                    <div class="right"><a href="/" class="btn">聞々ハヤえもんトップページ</a></div>
+                </div>
                 <div style="text-align:center">
                     <!-- グーグル・アドセンス開始-->
                     <script type="text/javascript"><!--
