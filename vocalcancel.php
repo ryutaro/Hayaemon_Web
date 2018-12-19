@@ -30,7 +30,7 @@ include('./include/header.php');
                 </div>
                 <div id="navi">
                     <div class="left"><a href="normalize.php" class="lbtn">ノーマライズ機能を使ってみよう</a></div>
-                    <div class="right"><a href="versionup.php" class="btn">聞々ハヤえもんをバージョンアップする方法</a></div>
+                    <div class="right"><a href="reverse.php" class="btn">逆回転再生をしてみよう</a></div>
                 </div>
                 <div class="center">
                     <!-- How_About_Bottom_728x90 -->

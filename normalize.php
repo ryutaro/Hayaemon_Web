@@ -32,7 +32,7 @@ include('./include/header.php');
                 </div>
                 <div id="navi">
                     <div class="left"><a href="soundeffects.php" class="lbtn">効果音機能を使ってみよう</a></div>
-                    <div class="right"><a href="versionup.php" class="btn">聞々ハヤえもんをバージョンアップする方法</a></div>
+                    <div class="right"><a href="vocalcancel.php" class="btn">ボーカルキャンセル機能を使ってみよう</a></div>
                 </div>
                 <div class="center">
                     <!-- How_About_Bottom_728x90 -->

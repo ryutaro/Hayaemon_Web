@@ -32,7 +32,7 @@ include('./include/header.php');
                 </div>
                 <div id="navi">
                     <div class="left"><a href="vocalcancel.php" class="lbtn">ボーカルキャンセル機能を使ってみよう</a></div>
-                    <div class="right"><a href="versionup.php" class="btn">聞々ハヤえもんをバージョンアップする方法</a></div>
+                    <div class="right"><a href="record.php" class="btn">古びたレコード再生を使ってみよう</a></div>
                 </div>
                 <div class="center">
                     <!-- How_About_Bottom_728x90 -->
