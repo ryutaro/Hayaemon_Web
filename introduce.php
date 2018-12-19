@@ -88,7 +88,10 @@ include('./include/header.php');
                     <br>
                     聞々ハヤえもんをたくさんの人に知っていただくことにより、公式サイトにたくさんの意見が集まるようになります。改善案や不具合報告がたくさん集まることにより、聞々ハヤえもんはより便利で安定したソフトへと成長していきます。
                 </div>
-                <br>
+                <div id="navi">
+                    <div class="left"><a href="bosyu.php" class="lbtn">聞々ハヤえもん開発協力者、募集中！</a></div>
+                    <div class="right"><a href="/" class="btn">聞々ハヤえもんトップページ</a></div>
+                </div>
                 <div style="text-align:center">
                     <!-- グーグル・アドセンス開始-->
                     <script type="text/javascript"><!--
