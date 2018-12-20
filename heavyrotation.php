@@ -32,6 +32,10 @@ include('./include/header.php');
                     操作方法は、これだけです。たったのこれだけで、まるでTOKIOが歌っているように聴こえます。ぜひ一度お試しください。<br>
                     <a class="btn" target="_blank" href="https://www.amazon.co.jp/gp/product/B003M0NQ4C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=edolfzoku-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B003M0NQ4C">Amazon.co.jpでこの曲を探す</a>
                 </div>
+                <div id="navi">
+                    <div class="left"><a href="morainaki.php" class="lbtn">一青窈「もらい泣き」を平井堅が歌っているように再生する方法</a></div>
+                    <div class="right"><a href="/" class="btn">聞々ハヤえもんトップページ</a></div>
+                </div>
                 <div class="center">
                     <!-- How_About_Bottom_728x90 -->
                     <div id='div-gpt-ad-1353715793997-0' style='width:728px; height:90px;'>

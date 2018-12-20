@@ -35,6 +35,10 @@ include('./include/header.php');
                     <a target="_blank" class="btn" href="https://www.amazon.co.jp/gp/product/B000J20UUE/ref=as_li_qf_sp_asin_il?ie=UTF8&tag=edolfzoku-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B000J20UUE">Amazon.co.jpでこの曲を探す</a>
                     <img src="https://www.assoc-amazon.jp/e/ir?t=edolfzoku-22&l=as2&o=9&a=B000J20UUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
                 </div>
+                <div id="navi">
+                    <div class="left"><a href="/" class="lbtn">聞々ハヤえもんトップページ</a></div>
+                    <div class="right"><a href="heavyrotation.php" class="btn">AKB48「ヘビーローテーション」をTOKIOが歌っているように再生する方法</a></div>
+                </div>
                 <div class="center">
                     <!-- How_About_Bottom_728x90 -->
                     <div id='div-gpt-ad-1353715793997-0' style='width:728px; height:90px;'>
