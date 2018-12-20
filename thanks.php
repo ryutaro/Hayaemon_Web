@@ -103,6 +103,10 @@ include('./include/header.php');
                     <br>
                     <a href="bosyu.php" class="btn">聞々ハヤえもんの開発にご協力いただける場合はこちら</a>
                 </div>
+                <div id="navi">
+                    <div class="left"><a href="/" class="lbtn">聞々ハヤえもんトップページ</a></div>
+                    <div class="right"><a href="manual.php" class="btn">聞々ハヤえもん オンラインマニュアル</a></div>
+                </div>
                 <div class="center">
                     <!-- How_Thanks_Bottom_728x90 -->
                     <div id='div-gpt-ad-1361584819763-0' style='width:728px; height:90px;'>
