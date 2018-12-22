@@ -58,11 +58,11 @@ include('./include/header.php');
                     マニュアルを読んでも分からないことがあった場合は、下記の方法でお問い合わせいただく事ができます。<br>
                 </div>
                 <br>
-                <div class="font24" style="margin-top:20px;margin-left:20px;font-weight:bold">①聞々ハヤえもんユーザーコミュニティで質問する。
+                <div class="font24" style="margin-top:20px;margin-left:20px;font-weight:bold">①ツイッターで質問する。
                 </div>
                 <div style="margin-top:10px;margin-left:40px">
-                    聞々ハヤえもんユーザーコミュニティには、「質問」というカテゴリが存在している為、そちらにご投稿ください。開発者であるりょーた、または、親切なユーザー様から答えが得られるかもしれません。<br><br>
-                    <a href="./wiki/" target="_blank" class="font20 btn">聞々ハヤえもんユーザーコミュニティ</a>
+                     開発者は日頃ツイッターにいる事が多い為、ツイッターで質問いただく事ができます。<br><br>
+                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
                     <br>
                 </div>
                 <div class="font24" style="margin-top:40px;margin-left:20px;font-weight:bold">②開発者にメールを送ってみる。</div>
