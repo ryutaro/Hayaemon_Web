@@ -56,7 +56,7 @@ google_ad_height = 90;
                     <br>
                     あなたのご意見によって、聞々ハヤえもんはよりよいソフトへと成長していきます。<br>
                     <br>
-                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者りょーたのTwitterはこちら</a>
+                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
                 </div>
                 <div class="font26" style="margin-top:40px;font-weight:bold">開発／テストをすること。</div>
                 <div class="font18" style="margin-top:15px;margin-bottom:20px;font-weight:bold;color:#808080">
