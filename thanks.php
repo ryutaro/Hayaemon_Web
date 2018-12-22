@@ -75,20 +75,18 @@ include('./include/header.php');
                     <br>
                     感想をいただくことで開発意欲があがり、さらに良いソフトを作るためのモチベーションにつながります。<br>
                     <br>
-                    <a href="./wiki/" class="btn">聞々ハヤえもんユーザーコミュニティはこちら</a>
+                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
                 </div>
                 <div class="font26" style="margin-top:40px;font-weight:bold">アイデアや不具合報告を投稿。</div>
                 <div class="font18" style="margin-top:15px;margin-bottom:20px;font-weight:bold;color:#808080">
                     新しいバージョンを、さらに新しく。
                 </div>
                 <div style="margin-left:20px">
-                    「もっとこんな機能が欲しい！」と思うような機能や、「あれ？　これって不具合では？」と思うようなことがあったら、すぐに聞々ハヤえもんユーザーコミュニティにご投稿ください。<br>
-                    <br>
-                    これまでにも、聞々ハヤえもんユーザーコミュニティへの投稿から200回にも及ぶバージョンアップが行われています。<br>
+                    「もっとこんな機能が欲しい！」と思うような機能や、「あれ？　これって不具合では？」と思うようなことがあったら、すぐに開発者までお知らせください。<br>
                     <br>
                     あなたのご意見によって、聞々ハヤえもんはよりよいソフトへと成長していきます。<br>
                     <br>
-                    <a href="./wiki/" class="btn">聞々ハヤえもんユーザーコミュニティはこちら</a>
+                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
                 </div>
                 <div class="font26" style="margin-top:40px;font-weight:bold">開発に協力する。</div>
                 <div class="font18" style="margin-top:15px;margin-bottom:20px;font-weight:bold;color:#808080">
