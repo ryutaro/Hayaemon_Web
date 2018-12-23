@@ -62,7 +62,7 @@ include('./include/header.php');
                 </div>
                 <div style="margin-top:10px;margin-left:40px">
                      開発者は日頃ツイッターにいる事が多い為、ツイッターで質問いただく事ができます。<br><br>
-                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
+                    <a href="https://twitter.com/ryota_yama" class="twitter" target="_blank">開発者と連絡が取れるツイッターはこちら</a>
                     <br>
                 </div>
                 <div class="font24" style="margin-top:40px;margin-left:20px;font-weight:bold">②開発者にメールを送ってみる。</div>

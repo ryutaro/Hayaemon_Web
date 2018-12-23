@@ -75,7 +75,7 @@ include('./include/header.php');
                     <br>
                     感想をいただくことで開発意欲があがり、さらに良いソフトを作るためのモチベーションにつながります。<br>
                     <br>
-                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
+                    <a href="https://twitter.com/ryota_yama" class="twitter" target="_blank">開発者と連絡が取れるツイッターはこちら</a>
                 </div>
                 <div class="font26" style="margin-top:40px;font-weight:bold">アイデアや不具合報告を投稿。</div>
                 <div class="font18" style="margin-top:15px;margin-bottom:20px;font-weight:bold;color:#808080">
@@ -86,7 +86,7 @@ include('./include/header.php');
                     <br>
                     あなたのご意見によって、聞々ハヤえもんはよりよいソフトへと成長していきます。<br>
                     <br>
-                    <a href="https://twitter.com/ryota_yama" class="twitter">開発者と連絡が取れるツイッターはこちら</a>
+                    <a href="https://twitter.com/ryota_yama" class="twitter" target="_blank">開発者と連絡が取れるツイッターはこちら</a>
                 </div>
                 <div class="font26" style="margin-top:40px;font-weight:bold">開発に協力する。</div>
                 <div class="font18" style="margin-top:15px;margin-bottom:20px;font-weight:bold;color:#808080">

@@ -366,7 +366,7 @@ include('./include/header.php');
                 </div>
                 <div style="margin:10px;font-size:12px">
                     <a href="https://itunes.apple.com/jp/app/wen-hayaemon/id717639970?mt=8" style="font-weight:bold" target="_blank">ハヤえもん iOS版</a>の公式プロモーションビデオが公開されました！<br>
-                    動画制作してくれた、でらくさん（<a href="https://twitter.com/dx_0913">@dx_0913</a>）、クレナさん（<a href="https://twitter.com/Narumi_KURENAI">@Narumi_KURENAI</a>）、ありがとうございます！٩( ᐛ )و
+                    動画制作してくれた、でらくさん（<a href="https://twitter.com/dx_0913" target="_blank">@dx_0913</a>）、クレナさん（<a href="https://twitter.com/Narumi_KURENAI" target="_blank">@Narumi_KURENAI</a>）、ありがとうございます！٩( ᐛ )و
                 </div>
                 <iframe width="320" height="240" style="margin:7px" src="https://www.youtube.com/embed/qWSnm7NfmBU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 <iframe width="320" height="240" style="margin:7px" src="https://www.youtube.com/embed/E-1fM1yJNIk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
